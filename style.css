@@ -151,6 +151,13 @@ main .container {
     font-weight: 400;
 }
 
+.info .name h1 {
+    color: var(--white-color);
+    font-size: var(--font-size);
+    font-weight: 400;
+}
+
+
 .info .name p:last-child {
     opacity: 0.5;
 }
